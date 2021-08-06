@@ -61,3 +61,9 @@ There are items on the course which help or hinder you on your way.
 - CSS framework for web page design: https://nostalgic-css.github.io/NES.css/#  
     Only offers styling no alignment etc.
 - Font Awesome for instruction icons
+
+## Credits 
+
+***
+
+Sounds from Zapsplat.com
